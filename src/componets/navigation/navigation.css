@@ -1,0 +1,58 @@
+
+.box_two {
+    background-color: #ffff;
+    width: 100%;
+    padding-top: 77px;
+    padding-bottom: 80px;
+  }
+  
+  .item_head {
+    font-size: 30px;
+    font-weight: 400;
+    color: #676770;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+  }
+  
+  .item_subtitle {
+    font-size: 17px;
+    font-weight: 400;
+    color: #8e8e9c;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 17px;
+    letter-spacing: 3px;
+  }
+  
+  .item_cont {
+    display: flex;
+    text-align: center;
+    margin-top: 62px;
+  }
+  
+  .table {
+    border: 1px solid #dcebf7;
+    border-radius: 5px;
+    margin-left: 20px;
+  }
+  
+  .item_icon {
+    margin: 36px 103px 19px;
+  }
+  
+  .item_title {
+    font-size: 20px;
+    font-weight: 400;
+    color: #676770;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+  }
+  
+  .item_text {
+    font-size: 14px;
+    font-weight: 400;
+    color: #6a859c;
+    margin: 14px 16px 23px;
+    line-height: 25px;
+  }

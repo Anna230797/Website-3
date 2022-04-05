@@ -1,0 +1,70 @@
+.box_four {
+    background-color: #ffff;
+    width: 100%;
+    padding-top: 77px;
+    padding-bottom: 90px;
+  }
+  
+  .navigation_head {
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+    color: #676770;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 36px;
+  }
+  
+  .navigation_subtitle {
+    font-size: 17px;
+    font-weight: 400;
+    text-align: center;
+    color: #676770;
+    line-height: 20px;
+    letter-spacing: 3px;
+    padding-top: 17px;
+    text-transform: uppercase;
+  }
+  
+  .navigation_btn {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 73px;
+  }
+  .navigation_btn a{
+    color: #ffff;
+  }
+  .navigation_btn1 button {
+    color: #ffff;
+    background-color: #92a0ad;
+    padding: 0 30px 0 30px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  
+  .navigation_btn1 :hover {
+    background-color: #2e80b6;
+  }
+  
+  .navigation_img {
+    padding: 53px 16px;
+  }
+  
+  .navigation_title {
+    font-size: 31px;
+    color: #676770;
+    line-height: 36px;
+    text-align: center;
+  }
+  
+  .navigation_text {
+    font-size: 13px;
+    color: #6a859c;
+    line-height: 25px;
+    text-align: center;
+    padding: 14px 116px 90px;
+  }

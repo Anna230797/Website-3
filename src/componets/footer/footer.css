@@ -1,0 +1,81 @@
+.box_five {
+    background-color: #ffff;
+    width: 100%;
+    padding-bottom: 40px;
+  }
+  
+  .description_box {
+    display: flex;
+  }
+  
+  .description_title {
+    font-size: 18px;
+    color: #676770;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    line-height: 20px;
+  }
+  
+  .description_text {
+    font-size: 14px;
+    color: #6A859C;
+    line-height: 25px;
+    margin: 25px 21px 0 0;
+    width: 299px;
+  }
+  
+  .link_title {
+    font-size: 18px;
+    color: #676770;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    line-height: 20px;
+  }
+  
+  .link_list {
+    font-size: 14px;
+    color: #6A859C;
+    line-height: 21px;
+    margin: 25px 21px 0 0;
+    width: 299px;
+  }
+  
+  .link_list a{
+    color: 
+    #668CAD;
+  }
+  .link_list li {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid #D5D5E0;
+    padding-bottom: 11px
+  }
+  
+  .social_title {
+    font-size: 18px;
+    color: #676770;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    line-height: 20px;
+  }
+  
+  .social_list {
+    font-size: 14px;
+    color: #6A859C;
+    line-height: 25px;
+    margin-top: 21px;
+  }
+  .social_list a{
+    color: 
+    #668CAD;
+  }
+  
+  .social_list li {
+    border-bottom: 1px solid #D5D5E0;
+    padding-bottom: 11px;
+    width: 270px;
+  }
+  
+  .social_list img {
+    padding-right: 10px;
+  }

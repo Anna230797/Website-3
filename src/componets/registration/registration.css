@@ -1,0 +1,40 @@
+.box_one {
+    background: url(/src/componets/registration/images/im1.png) no-repeat;
+    height: 594px;
+    width: 100%;
+    background-position: center center;
+  }
+  
+  .name {
+    text-align: center;
+    font-size: 59px;
+    color: #ffff;
+    padding-top: 184px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+  }
+  
+  .btnOne {
+    margin-top: 106px;
+    text-align: center;
+  }
+  .btnOne a{
+    color: #ffff;
+  }
+  
+  .btnOne :hover {
+    background-color: #69b9ff;
+  }
+  
+  .btnOne button {
+    margin-right: 20px;
+    padding: 10px 30px;
+    color: #ffff;
+    background: none;
+    border: 1px solid #ffff;
+    font-weight: 400;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }

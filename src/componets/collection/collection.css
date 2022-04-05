@@ -1,0 +1,74 @@
+.box_three {
+    background-color: #192024;
+    width: 100%;
+    padding-top: 77px;
+    padding-bottom: 95px;
+  }
+  
+  .collection_head {
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+    color: #ffff;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+  }
+  
+  .collection_subtitle {
+    font-size: 17px;
+    font-weight: 400;
+    text-align: center;
+    color: #ffff;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-top: 17px;
+  }
+  
+  .collection_content {
+    display: flex;
+    text-align: center;
+    margin-top: 77px;
+  }
+  
+  .collection_title {
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    color: #ffff;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    margin-top: 20px;
+  }
+  
+  .collection_text {
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    color: #ffff;
+    margin: 23px 30px 17px;
+    line-height: 25px;
+  }
+  
+  .collection_btn {
+    text-align: center;
+  }
+  
+  .collection_btn a{
+  color: #ffff;
+  }
+  .collection_btn button {
+    margin-right: 20px;
+    padding: 10px 30px;
+    color: #ffff;
+    background: none;
+    border: 1px solid #ffff;
+    font-weight: 400;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  
+  .collection_btn :hover {
+    background-color: #69b9ff;
+  }
+  

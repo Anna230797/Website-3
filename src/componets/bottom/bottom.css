@@ -1,0 +1,16 @@
+
+.box_color {
+    background: #383838;
+  }
+  
+  .box_text {
+    text-align: center;
+    color: #9E9E9E;
+    font-size: 15px;
+  
+  }
+  
+  .box_text p {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }

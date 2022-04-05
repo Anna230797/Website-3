@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 19px;
+  }
+  
+  .logo {
+  
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+  }
+  
+  .logo a {
+    color: #69b9ff;
+  }
+  
+  .menu_name {
+    margin-left: 40px;
+  }
+  
+  .menu {
+    display: flex;
+    font-size: 16px;
+    font-weight: 400;
+  }
+  
+  .menu a {
+    color:
+      #676770;
+  }
+  
+  .menu a:hover {
+    color: #69b9ff;
+  }
+  
